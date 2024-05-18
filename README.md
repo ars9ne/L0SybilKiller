@@ -52,3 +52,7 @@ Exclude records with NATIVE_DROP_USD equal to 0.
 Group the data by clusters and NATIVE_DROP_USD.
 Identify unique wallets for each group and ensure there are no duplicate SENDER_WALLET addresses within the same NATIVE_DROP_USD group.
 Save the unique wallet data to separate CSV files for each cluster.
+
+Step 4: Manual Verification
+
+Manually review each set of results to ensure accuracy.
