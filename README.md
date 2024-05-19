@@ -1,6 +1,7 @@
 Overview
 
 This SybilKiller focuses on clustering blockchain transaction data to identify patterns and potential Sybil addresses. The process involves data collection, preprocessing, feature scaling, clustering using the K-Means algorithm, and analysis of the resulting clusters.
+All verified addresses through the API can be found in the "checked_addresses" folder in this repository, with each verified address and their connections to each other listed in CSV files.
 
 Features
 
